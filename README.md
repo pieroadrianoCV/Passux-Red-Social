@@ -1,0 +1,2 @@
+-  [README backend](https://github.com/pieroadrianoCV/Passux-Red-Social/tree/main/backend)
+-  [README frontend](https://github.com/pieroadrianoCV/Passux-Red-Social/tree/main/frontend)
